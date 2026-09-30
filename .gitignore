@@ -12,7 +12,7 @@ frontend/dist/
 *.iml
 
 # Env
-.env
+.env*
 *.local
 
 # OS
